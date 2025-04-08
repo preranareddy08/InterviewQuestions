@@ -66,10 +66,14 @@ Bonus :
 21. How would you design a URL shortening service like Bitly? 
 22. How do you design a messaging queue system? 
 23. What are the benefits of load balancing, and what types of load balancers exist? 
-24. How would you design a distributed file storage system? 
-25. Explain eventual consistency and strong consistency in distributed systems. 
-26. What are unit tests, integration tests, and end-to-end tests? 
-27. How do you debug a memory leak in a backend application? 
-28. What tools and techniques do you use for logging and monitoring in a backend system? 
-29. How do you handle failed transactions in a distributed system? 
-30. Explain the concept of idempotency in APIs. 
+24. How would you design a distributed file storage system?
+25. 27. Explain eventual consistency and strong consistency in distributed systems. 
+28. What are unit tests, integration tests, and end-to-end tests? 
+29. How do you debug a memory leak in a backend application? 
+30. What tools and techniques do you use for logging and monitoring in a backend system? 
+31. How do you handle failed transactions in a distributed system? 
+32. Explain the concept of idempotency in APIs. 
+
+
+  CHOTU QUESTIONS
+26. fetch, axios, asynchronous function, anonymous functions , js objects , map filter reduce, redux(actions, reducers, thunks, dispatch), sockets , web sockets , socket.io, web RTC, Acid properties-dbms, promises, event loop, middlewares, diff between redux and context API, why do you use mongoDB, Does mongoDb supports transactions and how, how do you make pure node js efficient, typescript basics, typescript vs js, is typescript easier than js, microservice architecture, is node js single threaded language, js data types , diff between var let const , scopes ,
